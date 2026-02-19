@@ -20,6 +20,18 @@ https://ganaeg.github.io/Carbon-on-the-Chain-Digital-Solutions-for-a-Greener-Pla
 - Auditor Verification System
 - Carbon Credit Trading
 - Dashboard Analytics
+  
+## 🦊 MetaMask + Ganache Setup
+Smart contracts were tested locally using Ganache and connected through MetaMask.
+
+![MetaMask Ganache](metamask-ganache.png)
+
+## 🧪 Ganache Local Blockchain
+
+Smart contracts were tested locally using Ganache before deploying to a public testnet.
+
+![Ganache Local Setup](ganache-safe.png)
+
 
 ## 📄 Project Report
 Available in this repository.
